@@ -1,1 +1,1 @@
-msg : welcome
+msg: "Hello from the Config Server!"
